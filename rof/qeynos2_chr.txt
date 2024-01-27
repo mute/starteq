@@ -1,0 +1,11 @@
+10
+cst,cst
+rtn,rtn
+btn,btn
+snk,snk
+bse,bse
+mmy,mmy_chr
+ghm,ghm_chr
+ghf,ghf_chr
+gdm,unrest_chr
+gem,paineel_chr

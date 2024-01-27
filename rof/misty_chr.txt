@@ -1,0 +1,12 @@
+11
+rtn,rtn
+btn,btn
+dke,dke
+tar,tar
+snk,snk
+btl,btl
+buu,codecay_chr
+mal,codecay_chr
+nmg,codecay_chr
+pus,codecay_chr
+rnb,letalis_chr

@@ -1,0 +1,11 @@
+10
+rtn,rtn
+pma,pma
+shi,shi
+ghm,ghm_chr
+ghf,ghf_chr
+gdm,unrest_chr
+gem,paineel_chr
+gef,paineel_chr
+xem,xem
+xef,xef

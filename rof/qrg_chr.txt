@@ -1,0 +1,10 @@
+6
+btn,btn
+prt,prt
+sce,bothunder_chr
+bgm,oasis_chr
+tgl,tgl_chr
+ork,ork
+
+
+

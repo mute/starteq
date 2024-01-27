@@ -1,0 +1,15 @@
+17
+tar,tar
+gus,gusgum,gumgul,gul
+wil,gfaydark_chr
+goo,goo_chr
+fsk,fsk_chr
+fud,fud_chr
+nin,nin_chr
+fgh,fgh_chr
+box,box_chr
+cst,cst_chr
+brl,brl_chr
+bon,bon_chr
+fun,guktop_chr
+tzf,tzf_chr

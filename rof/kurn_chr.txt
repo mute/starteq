@@ -1,0 +1,9 @@
+9
+prt,prt
+kop,potimeb_chr
+npt,ponightmare
+pus,codecay_chr
+buu,codecay_chr
+mal,codecay_chr
+dke,dke
+gul,gul
